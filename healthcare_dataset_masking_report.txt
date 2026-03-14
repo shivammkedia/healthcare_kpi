@@ -1,0 +1,102 @@
+================================================================================
+EXCEL DATA MASKING REPORT
+================================================================================
+
+Input File: E:\python_files\healthcare_dataset.xlsx
+Output File: E:\python_files\healthcare_dataset_masked.xlsx
+Report Generated: 2026-03-14 22:56:34
+
+DATA TYPE ANALYSIS:
+--------------------------------------------------------------------------------
+
+Name:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Bobby JacksOn
+
+Age:
+  Data Type: int64
+  Non-null values: 55500
+  Null values: 0
+  Sample value: 30
+
+Gender:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Male
+
+Blood Type:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: B-
+
+Medical Condition:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Cancer
+
+Date of Admission:
+  Data Type: datetime64[us]
+  Non-null values: 55500
+  Null values: 0
+  Sample value: 2024-01-31 00:00:00
+
+Doctor:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Matthew Smith
+
+Hospital:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Sons and Miller
+
+Insurance Provider:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Blue Cross
+
+Billing Amount:
+  Data Type: float64
+  Non-null values: 55500
+  Null values: 0
+  Sample value: 18856.2813059781
+
+Room Number:
+  Data Type: int64
+  Non-null values: 55500
+  Null values: 0
+  Sample value: 328
+
+Admission Type:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Urgent
+
+Discharge Date:
+  Data Type: datetime64[us]
+  Non-null values: 55500
+  Null values: 0
+  Sample value: 2024-02-02 00:00:00
+
+Medication:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Paracetamol
+
+Test Results:
+  Data Type: str
+  Non-null values: 55500
+  Null values: 0
+  Sample value: Normal
+
+================================================================================
