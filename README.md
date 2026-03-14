@@ -465,7 +465,7 @@ This project is open source and available under the MIT License.
 
 **Shivam Kedia**
 - GitHub: [@shivammkedia](https://github.com/shivammkedia)
-- LinkedIn: [Shivam Kedia](https://linkedin.com/in/shivam-kedia)
+- LinkedIn: [Shivam Kedia](https://www.linkedin.com/in/kediashivam/)
 
 Demonstrating expertise in:
 - **Agentic AI Workflows** - Multi-agent systems and orchestration
